@@ -1,0 +1,38 @@
+{
+    "batch19":[
+        {
+            "name":"Rahul"
+        }
+    ],
+    "batch20":[
+        {
+            "name":"Kalayan"
+        },
+        {
+            "name":"Seshadari"
+        }
+    ],
+    "batch22":[
+        {
+            "name":"Mahesh"
+        },
+        {
+            "name":"Bharth"
+        }
+    ],
+    "southmovie":[
+        {
+            "name":"ps-2",
+            "rating":"8"
+        },
+        {
+            "name":"pushpa",
+            "rating":"9"
+        },
+        {
+            "id":"1",
+            "name":"sita ram",
+            "rating":"10"
+        }
+    ]
+}
